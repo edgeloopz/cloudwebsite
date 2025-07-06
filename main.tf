@@ -13,7 +13,7 @@ provider "google" {
 }
 
 resource "google_storage_bucket" "project_bucket" {
-  name                     = "tt-web-bucket"
+  name                     = "jp-webcicd-bucket1"
   location                 = "US"
   force_destroy            = true
   public_access_prevention = "enforced"
