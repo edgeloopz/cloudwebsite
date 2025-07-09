@@ -1,4 +1,4 @@
-# Terraform and GCP Web Server using Github Actions
+# Terraform and Google Cloud Web Server using GitHub Actions
 The starting point for this repo is based on my previous work creating a CI/CD pipeline for Terraform using GitHub Actions and GitHub Secrets, and can be found [here.](https://github.com/edgeloopz/gcp-cicd)
 
 ## Overview
